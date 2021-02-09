@@ -1,5 +1,5 @@
 
-A new Flutter App development Integration With Firebase’s Firestore And Running Any Linux Command Using API
+A new Flutter App development project Integration With Firebase’s Firestore And Running Any Linux Command Using API
 
 ## Getting Started
 
