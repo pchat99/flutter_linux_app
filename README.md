@@ -1,6 +1,5 @@
-# linuxmobile
 
-A new Flutter project.
+A new Flutter App development Integration With Firebase’s Firestore And Running Any Linux Command Using API
 
 ## Getting Started
 
